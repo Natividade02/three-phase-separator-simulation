@@ -1,26 +1,36 @@
-# three-phase-separator-simulation
+# Three-Phase Separator Simulation
 
-This repository contains a dynamic simulation model for oil-water-gas separation.
+This repository contains a dynamic simulation model for a three-phase separator (oil-water-gas).
 
 ## 📄 Related publication
 
 This work is associated with a publication in the XI SIINTEC.
 
-## ⚙️ Features
+## ⚙️ Model Features
 
 * Dynamic mass balance
 * Oil-water-gas separation modeling
-* Transient simulation
+* Separator efficiency correlations
+* Transient simulation using ODE solver (SciPy)
+
+## 📊 Outputs
+
+The model generates:
+
+* Oil, water, and gas flow rates
+* Pressure behavior
+* Phase levels
+* BS&W (Basic Sediment and Water)
+* Residence time calculations
+* Graphical results (matplotlib)
+* Tabulated results (pandas)
 
 ## 🚀 How to run
 
-Run the Python script to simulate the system.
+python three_phase_separator_simulation.py
 
 ## 📌 Notes
 
-This is the initial functional version of the model. Future updates will include an object-oriented implementation.
-
-## 📊 Input Parameters
-
-Model parameters are currently defined directly in the code.
-
+* Input parameters are defined directly in the code
+* Multiple oil types (API) are simulated
+* Future versions will include object-oriented implementation
