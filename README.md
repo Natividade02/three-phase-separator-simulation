@@ -27,10 +27,11 @@ The model generates:
 
 ## 🚀 How to run
 
-python three_phase_separator_simulation.py
+python three_phase_separator_simulation.py or three_phase_version_POO.py
+To version POO, you need to input in terminal the temperature and time of simulation
 
 ## 📌 Notes
 
 * Input parameters are defined directly in the code
 * Multiple oil types (API) are simulated
-* Future versions will include object-oriented implementation
+* Future versions will include object-oriented implementation and new graphs
