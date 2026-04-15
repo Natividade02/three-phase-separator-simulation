@@ -1,5 +1,7 @@
 # Three-Phase Separator Simulation
 
+[![DOI](https://zenodo.org/badge/1201316953.svg)](https://doi.org/10.5281/zenodo.19583459)
+
 This repository contains a dynamic simulation model for a three-phase separator (oil-water-gas).
 
 ## 📄 Related publication
