@@ -248,7 +248,7 @@ ANP/PRH-27.1 Research Fellow | Process Modeling & Simulation | Oil & Gas Primary
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-michelnatividade-blue)](https://www.linkedin.com/in/michelnatividade/)
 [![Lattes](https://img.shields.io/badge/Lattes-CNPq-orange)](http://lattes.cnpq.br/6493246851690351)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-teal)](https://www.researchgate.net/)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-teal)](https://www.researchgate.net/profile/Michel-Natividade/research)
 
 ---
 
