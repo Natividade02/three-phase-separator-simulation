@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Python 3.x](https://img.shields.io/badge/python-3.x-blue.svg)](https://www.python.org/)
-[![Publication](https://img.shields.io/badge/Published-XI%20JBTH-green)](https://doi.org/10.34178/jbth.v9i3.596)
+[![Publication](https://img.shields.io/badge/Published-%20JBTH-green)](https://doi.org/10.34178/jbth.v9i3.596)
 
 A dynamic simulation model for three-phase oil-water-gas separation, built from first principles using mass balance ODEs and solved with SciPy's RK45 integrator. Developed as part of a research program funded by **ANP/PRH-27.1** and associated with a peer-reviewed publication in the **Journal of Bioengineering, Technologies and Health (2026)**.
 
